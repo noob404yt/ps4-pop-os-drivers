@@ -5,7 +5,7 @@ Drivers for Pop OS running on PS4 (PlayStation 4). Drivers include the Mesa, Lib
 1. Download the latest Release from the Releases section.
 2. Extract.
 3. Change directory into 64-bit and open a terminal there.
-4. Run `sudo dpkg -i *.`
+4. Run `sudo dpkg -i *`
 5. If you run into errors, run `sudo apt-get --fix-broken install`.
 6. Run `sudo dpkg -i *.` It should be successful now.
 7. Change directory into 32-bit and open a terminal there.
