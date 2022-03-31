@@ -1,8 +1,8 @@
 # Drivers for PS4 on Pop! OS 
 Drivers for Pop OS running on PS4 (PlayStation 4). Drivers include the Mesa, Libdrm and Xorg drivers necessary to properly implement Vulkan on the PS4 and have Windows games running properly.
 
-# Installing Drivers for Pop OS on PS4
-1. Download the latest Release from the Releases section.
+## Installing Drivers for Pop OS on PS4
+1. Download the latest Release from the Releases section or the drivers for your version of Pop OS (eg:- 21.10, 22.04, etc.).
 2. Extract.
 3. Change directory into 64-bit and open a terminal there.
 4. Run `sudo dpkg -i *`
